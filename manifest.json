@@ -1,0 +1,14 @@
+{
+  "name": "4タイプ体質診断｜冨高誠治",
+  "short_name": "体質診断",
+  "description": "20問・3分の体質診断とタイプ別7日養生プログラム",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf6ee",
+  "theme_color": "#c4633c",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
