@@ -217,7 +217,7 @@ function renderResult(root) {
     </details>
 
     <details class="block" style="background:#fef9e7;margin-top:18px;">
-      <summary><b>⚠ ディスクレーマー（必ずお読みください）</b></summary>
+      <summary><b>⚠ 必ずお読みください</b></summary>
       <div class="care-body">
         <p class="note">※ 本プログラムは医療行為ではなく、生活養生（セルフケア）の参考情報です。</p>
         ${t.disclaimer.split('\n').map(l => l ? `<p class="note">${escapeHtml(l)}</p>` : '').join('')}
